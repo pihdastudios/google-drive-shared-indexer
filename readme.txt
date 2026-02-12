@@ -1,5 +1,5 @@
 Mostly made with AI Slop
-goal is to download all shared with me files and folders.
+goal is to index all shared with me files and folders. Then download using rclone.
 
 run here https://script.google.com/
 
